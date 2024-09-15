@@ -42,6 +42,15 @@
 		</dependency>
 	</dependencies>
 
+<distributionManagement>
+    <repository>
+    </repository>
+    <snapshotRepository>
+    </snapshotRepository>
+</distributionManagement>
+
+
+	
 	<build>
 		<plugins>
 			<plugin>
